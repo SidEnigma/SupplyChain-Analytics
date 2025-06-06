@@ -12,15 +12,15 @@ A comprehensive analysis of an e-commerce supply chain dataset. It explores vari
 
 ## Analysis Highlights
 
-1. **Product Performance**:
+1️⃣ **Product Performance**:
    - Price vs. Revenue scatter plots with trendlines by product category
    - Sales distribution across product types (haircare, skincare, cosmetics)
 
-2. **Revenue Analysis**:
+2️⃣ **Revenue Analysis**:
    - Total revenue by shipping carrier
    - Revenue generation patterns by SKU
 
-3. **Logistics Evaluation**:
+3️⃣ **Logistics Evaluation**:
    - Shipping costs across different carriers
    - Transportation mode efficiency
 
@@ -33,10 +33,10 @@ A comprehensive analysis of an e-commerce supply chain dataset. It explores vari
 
 ## Key Findings
 
-- Relationship between product pricing and revenue generation varies significantly by product category
-- Skincare products account for the majority of sales volume
-- Shipping Carrier B handles the largest portion of shipments
-- Revenue distribution across SKUs shows interesting patterns worth further investigation
+✔ The relationship between product pricing and revenue generation varies significantly by product category
+✔ Skincare products account for the majority of sales volume
+✔ Shipping Carrier B handles the largest portion of shipments
+✔ Revenue distribution across SKUs shows interesting patterns worth further investigation
 
 ## Scheduled Future Work
 
