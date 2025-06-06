@@ -33,10 +33,10 @@ A comprehensive analysis of an e-commerce supply chain dataset. It explores vari
 
 ## Key Findings
 
-✅ The relationship between product pricing and revenue generation varies significantly by product category
-✅ Skincare products account for the majority of sales volume
-✅ Shipping Carrier B handles the largest portion of shipments
-✅ Revenue distribution across SKUs shows interesting patterns worth further investigation
+✔ The relationship between product pricing and revenue generation varies significantly by product category
+✔ Skincare products account for the majority of sales volume
+✔ Shipping Carrier B handles the largest portion of shipments
+✔ Revenue distribution across SKUs shows interesting patterns worth further investigation
 
 ## Scheduled Future Work
 
