@@ -5,7 +5,7 @@ A comprehensive analysis of an e-commerce supply chain dataset. It explores vari
 
 ## Key Features
 
-🔹 **Data Exploration**: Loads and examines a supply chain dataset with 100 entries and 24 columns
+🔹 **Data Exploration**: Loads and examines a supply chain dataset
 
 🔹 **Visual Analytics**: Creates interactive visualizations using Plotly Express and Plotly Graph Objects
 
